@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(3d534e65-94f7-40bd-94ba-2f93cebd3364), Some(CommandSource(console0)))[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m[0J
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Niels\Documents\Scala\STB Demo\target\scala-2.13\classes ...[0m[0J
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 3 s, completed Oct 21, 2020, 1:40:44 PM[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m[0J
